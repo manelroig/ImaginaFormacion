@@ -10,9 +10,7 @@ function App() {
         <p>
           Buenos dias profe¡¡ Aquí tienes el ejercicio ;)
         </p>
-        <p>
-          Carpeta "components" creada dentro de scr, aunque en el repositorio de gitHub no la veo O)
-        </p>
+       
         
       </header>
     </div>
